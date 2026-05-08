@@ -1,0 +1,5 @@
+../Core/Src/application.c:99:6:application	34
+../Core/Src/application.c:349:6:HAL_UART_RxCpltCallback	5
+../Core/Src/application.c:365:5:_write	1
+../Core/Src/application.c:372:6:HAL_GPIO_EXTI_Callback	9
+../Core/Src/application.c:409:9:get_type_size	13

@@ -1,0 +1,7 @@
+description "RBF metrics"
+
+output "MAE uncompensated [mg]" float
+output "MAE compensated [mg]" float
+output "Error reduction [%]" float
+output "Learning flag" float
+output "RBF neurons" float
